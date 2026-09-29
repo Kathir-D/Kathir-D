@@ -14,7 +14,7 @@
 
 I'm a journalist. I shoot games and events under [@kdev.photography](https://www.instagram.com/kdev.photography/), then build the software I wish I had, along with whatever else I'm interested in.
 
-Right now that's [Firstcut](https://github.com/Kathir-D/Firstcut), a RAW photo culler for Apple Silicon, and [Stockroom](https://github.com/Kathir-D/Stockroom), barcode equipment checkout for a school media department.
+Right now that's [Firstcut](https://github.com/Kathir-D/Firstcut), a RAW photo culler for Apple Silicon, and [Stockroom](https://github.com/Kathir-D/Stockroom), barcode equipment checkout for my (and others) school media department.
 
 ### What I'm building
 
