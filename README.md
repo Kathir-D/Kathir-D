@@ -6,10 +6,6 @@
 </p>
 
 <p align="center">
-  <a href="https://kathirdev.com">kathirdev.com</a> · <a href="https://www.instagram.com/kdev.photography/">instagram.com/kdev.photography</a>
-</p>
-
-<p align="center">
   <a href="https://github.com/Kathir-D/homebrew-tap"><img height="48" alt="All my apps on Homebrew: brew tap Kathir-D/tap" src="https://img.shields.io/badge/Homebrew-brew%20tap%20Kathir--D%2Ftap-FBB040?style=for-the-badge&logo=homebrew&logoColor=white"></a>
 </p>
 
