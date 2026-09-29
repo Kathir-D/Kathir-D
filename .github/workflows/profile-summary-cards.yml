@@ -21,3 +21,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
+          # Keep the language cards focused on Firstcut, Stockroom, Sonar and headless-spotify.
+          EXCLUDE_REPOS: Kathir-D,homebrew-tap,Gists,testing,Game-Day-Grill,Game-Day-Grill-V2,Pytorch-learning,Unity-Game-Ethic-Dilemma,Random-Robotics-code,Computer-Science-A,Portfolio-Project,LEO-and-Road-hydrocarbon-output,decap-local-uploader,Mayc,2026-FBLA,Coding-Swift,Coding,2024-25-ISEF,desktop-tutorial
