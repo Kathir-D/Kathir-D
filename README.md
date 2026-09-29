@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Kathir</h1>
 
 <p align="center">
-  <b>Photographer first. I write code to make media work faster.</b><br>
-  Texas · sports and event photography · macOS tools
+  <b>Journalist. I shoot games and events, and build the software I wish I had.</b><br>
+  Texas
 </p>
 
 <p align="center">
@@ -14,9 +14,7 @@
 
 ### About me
 
-- Media is the main thing. I shoot sports and events under [@kdev.photography](https://www.instagram.com/kdev.photography/).
-- Computer science is what I enjoy, and I use it as a tool. Most of what I build exists because some part of making media was slower than it needed to be.
-- Right now I'm building **[Firstcut](https://github.com/Kathir-D/Firstcut)**, a RAW photo culler for Apple Silicon.
+I'm a journalist. I shoot games and events under [@kdev.photography](https://www.instagram.com/kdev.photography/), then build the software I wish I had, along with whatever else I'm interested in. Right now that's [Firstcut](https://github.com/Kathir-D/Firstcut), a RAW photo culler for Apple Silicon.
 
 ### What I'm building
 
@@ -26,29 +24,3 @@
 | 🚧 **[Stockroom](https://github.com/Kathir-D/Stockroom)** | Barcode equipment checkout for a school media department. One PC, no internet needed. |
 | **[Sonar](https://github.com/Kathir-D/Sonar)** | Spotify in the macOS menu bar. Pauses your music when another app makes sound. |
 | **[headless-spotify](https://github.com/Kathir-D/headless-spotify)** | Hides Spotify from the Dock and Cmd-Tab. Made to pair with Sonar. |
-
-### Tools I use
-
-<p>
-  <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white">
-  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
-  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white">
-  <img alt="Svelte" src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
-  <img alt="macOS" src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white">
-  <img alt="Xcode" src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white">
-  <img alt="Homebrew" src="https://img.shields.io/badge/Homebrew-FBB040?style=flat-square&logo=homebrew&logoColor=black">
-</p>
-
-### GitHub stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/3-stats.svg">
-    <img height="180" src="profile-summary-card-output/github/3-stats.svg" alt="GitHub stats">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/2-most-commit-language.svg">
-    <img height="180" src="profile-summary-card-output/github/2-most-commit-language.svg" alt="Most-committed languages">
-  </picture>
-</p>
