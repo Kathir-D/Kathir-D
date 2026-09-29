@@ -6,15 +6,20 @@
 </p>
 
 <p align="center">
-  <a href="https://kathirdev.com"><img alt="Website" src="https://img.shields.io/badge/kathirdev.com-000000?style=for-the-badge&logo=safari&logoColor=white"></a>
-  <a href="https://www.instagram.com/kdev.photography/"><img alt="Instagram" src="https://img.shields.io/badge/@kdev.photography-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://kathirdev.com">kathirdev.com</a> · <a href="https://www.instagram.com/kdev.photography/">instagram.com/kdev.photography</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Kathir-D/homebrew-tap"><img height="48" alt="All my apps on Homebrew: brew tap Kathir-D/tap" src="https://img.shields.io/badge/Homebrew-brew%20tap%20Kathir--D%2Ftap-FBB040?style=for-the-badge&logo=homebrew&logoColor=white"></a>
 </p>
 
 ---
 
 ### About me
 
-I'm a journalist. I shoot games and events under [@kdev.photography](https://www.instagram.com/kdev.photography/), then build the software I wish I had, along with whatever else I'm interested in. Right now that's [Firstcut](https://github.com/Kathir-D/Firstcut), a RAW photo culler for Apple Silicon.
+I'm a journalist. I shoot games and events under [@kdev.photography](https://www.instagram.com/kdev.photography/), then build the software I wish I had, along with whatever else I'm interested in.
+
+Right now that's [Firstcut](https://github.com/Kathir-D/Firstcut), a RAW photo culler for Apple Silicon.
 
 ### What I'm building
 
