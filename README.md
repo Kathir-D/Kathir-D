@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Kathir</h1>
 
 <p align="center">
-  <b>Journalist. I shoot games and events, and build the software I wish I had.</b>
+  <b>Journalist. I use a camera, and build software.</b>
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ### About me
 
-I'm a journalist. I shoot games and events under [@kdev.photography](https://www.instagram.com/kdev.photography/), then build the software I wish I had, along with whatever else I'm interested in.
+Just someone making software I wish I had and anything else I'm interested in.
 
 ### What I'm building
 
